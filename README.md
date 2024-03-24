@@ -1,4 +1,4 @@
 # 最近文章
 <!-- BLOG-POST-LIST:START -->
-- [Hello World](https://tale.xiaozi.cc/4a17b156/)
+- [你好世界](https://tale.xiaozi.cc/af7317c9/)
 <!-- BLOG-POST-LIST:END -->
